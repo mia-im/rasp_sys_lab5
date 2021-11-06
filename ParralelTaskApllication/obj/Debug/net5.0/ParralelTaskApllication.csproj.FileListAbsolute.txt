@@ -1,0 +1,16 @@
+D:\Универ\Работы\4 курс\Распределительные системы\Лаб5\ParralelTaskApllication\bin\Debug\net5.0\ParralelTaskApllication.exe
+D:\Универ\Работы\4 курс\Распределительные системы\Лаб5\ParralelTaskApllication\bin\Debug\net5.0\ParralelTaskApllication.deps.json
+D:\Универ\Работы\4 курс\Распределительные системы\Лаб5\ParralelTaskApllication\bin\Debug\net5.0\ParralelTaskApllication.runtimeconfig.json
+D:\Универ\Работы\4 курс\Распределительные системы\Лаб5\ParralelTaskApllication\bin\Debug\net5.0\ParralelTaskApllication.runtimeconfig.dev.json
+D:\Универ\Работы\4 курс\Распределительные системы\Лаб5\ParralelTaskApllication\bin\Debug\net5.0\ParralelTaskApllication.dll
+D:\Универ\Работы\4 курс\Распределительные системы\Лаб5\ParralelTaskApllication\bin\Debug\net5.0\ref\ParralelTaskApllication.dll
+D:\Универ\Работы\4 курс\Распределительные системы\Лаб5\ParralelTaskApllication\bin\Debug\net5.0\ParralelTaskApllication.pdb
+D:\Универ\Работы\4 курс\Распределительные системы\Лаб5\ParralelTaskApllication\obj\Debug\net5.0\ParralelTaskApllication.csprojAssemblyReference.cache
+D:\Универ\Работы\4 курс\Распределительные системы\Лаб5\ParralelTaskApllication\obj\Debug\net5.0\ParralelTaskApllication.GeneratedMSBuildEditorConfig.editorconfig
+D:\Универ\Работы\4 курс\Распределительные системы\Лаб5\ParralelTaskApllication\obj\Debug\net5.0\ParralelTaskApllication.AssemblyInfoInputs.cache
+D:\Универ\Работы\4 курс\Распределительные системы\Лаб5\ParralelTaskApllication\obj\Debug\net5.0\ParralelTaskApllication.AssemblyInfo.cs
+D:\Универ\Работы\4 курс\Распределительные системы\Лаб5\ParralelTaskApllication\obj\Debug\net5.0\ParralelTaskApllication.csproj.CoreCompileInputs.cache
+D:\Универ\Работы\4 курс\Распределительные системы\Лаб5\ParralelTaskApllication\obj\Debug\net5.0\ParralelTaskApllication.dll
+D:\Универ\Работы\4 курс\Распределительные системы\Лаб5\ParralelTaskApllication\obj\Debug\net5.0\ref\ParralelTaskApllication.dll
+D:\Универ\Работы\4 курс\Распределительные системы\Лаб5\ParralelTaskApllication\obj\Debug\net5.0\ParralelTaskApllication.pdb
+D:\Универ\Работы\4 курс\Распределительные системы\Лаб5\ParralelTaskApllication\obj\Debug\net5.0\ParralelTaskApllication.genruntimeconfig.cache
