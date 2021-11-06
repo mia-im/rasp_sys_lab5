@@ -196,7 +196,7 @@ namespace lab5_2
             DateTime dt1 = DateTime.Now;
             BucketSort(arr, kBucket);
             DateTime dt2 = DateTime.Now;
-            textBox6.Text = ((dt2 - dt1).TotalMilliseconds).ToString() + " c";
+            textBox6.Text = ((dt2 - dt1).TotalMilliseconds).ToString();
             textBox1.Text = (String.Join(" ", arr));
         }
 
@@ -211,7 +211,7 @@ namespace lab5_2
             DateTime dt1 = DateTime.Now;
             BucketSortWithTreads(arr, k, kBucket);
             DateTime dt2 = DateTime.Now;
-            textBox6.Text = ((dt2 - dt1).TotalMilliseconds).ToString() + " c";
+            textBox6.Text = ((dt2 - dt1).TotalMilliseconds).ToString();
             textBox1.Text = (String.Join(" ", arr));
         }
 
@@ -226,7 +226,7 @@ namespace lab5_2
             DateTime dt1 = DateTime.Now;
             BucketSortWithTasks(arr, k, kBucket);
             DateTime dt2 = DateTime.Now;
-            textBox6.Text = ((dt2 - dt1).TotalMilliseconds).ToString() + " c";
+            textBox6.Text = ((dt2 - dt1).TotalMilliseconds).ToString();
             textBox1.Text = (String.Join(" ", arr));
         }
     }
